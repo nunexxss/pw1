@@ -1,0 +1,116 @@
+html, body {
+  background: #ffffff;
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+#tudo {
+  width: 960px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+#cabecario {
+  height: 10%;
+  width: 100%;
+  background-color: black;
+  box-shadow: 1px 2px 6px rgba(0,0,0,0.5);
+}
+
+#menu{
+  width:50%;
+  height: 100%;
+  float: center;
+}
+
+#menu table{
+  margin: 0 auto;
+  margin-right: 5px;
+  height: 100%;
+  float: left;
+}
+
+#menu table td{
+  padding: 10px;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+#rodape {
+  background-color: black;
+  box-shadow: 1px 2px 5px rgba(0,0,0,0.5);
+  position: relative;
+  width: 100%;
+  height: 5%;
+}
+
+#followus {
+  width: 300px;
+  height: 100%;
+  float: center;
+}
+
+#followus table{
+  color: #ffffff;
+  margin: 0 auto;
+  margin-right: 5px;
+  height: 100%;
+}
+
+#followus a {
+  color: white;
+}
+#followus table td {
+  padding-right: 10px;
+}
+
+#conteudo {
+  width: 960px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 100%;
+}
+
+#imagemd {
+  margin-top: 50px;
+  float: left;
+}
+#textod{
+  width: 600px;
+  float: right;
+}
+
+#textod p{
+  font-size:10pt ;
+  text-align: justify ;
+
+}
+
+#imagemh {
+  float: right;
+}
+#textoh{
+  float: left;
+  position: relative;
+  width:300px;
+}
+#textoh p {
+  font-size:10pt ;
+  text-align: justify;
+}
+
+#imagemk{
+  float: left;
+}
+#textok{
+  float: right;
+  width: 300px;
+}
+#textok p{
+  font-size: 10pt;
+  text-align:justify ;
+}
